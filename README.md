@@ -1,3 +1,3 @@
-# tailwind-css-project-02
+# tailwind-css-project-0
 
-![screenshot](./img/tailwind-css-project-02.png)
+![screenshot](./img/tailwind-css-project-02.png/)
